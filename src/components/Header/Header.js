@@ -7,7 +7,7 @@ const Header = () => {
             <Title>
                 <h1>
                     <span className='main'>Grand Detour</span>
-                    <span className='sub'> It's about the detours on the way</span>
+                    <span className='sub'> It's about the detours along the way</span>
                 </h1>
             </Title>
             <Nav>
